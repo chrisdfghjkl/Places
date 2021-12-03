@@ -6,3 +6,6 @@ function Places(name, location, date, notes) {
   this.date = date;
   this.notes = notes;
 }
+
+// UI Logic ---------------------
+
